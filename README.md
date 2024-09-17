@@ -1,3 +1,3 @@
 # Website-Florist
 
-website project florist
+website project florist -c
